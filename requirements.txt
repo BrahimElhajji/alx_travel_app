@@ -1,7 +1,8 @@
-django
-djangorestframework
-django-cors-headers
-mysqlclient
-drf-yasg
-django-environ
-celery
+Django==4.2
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+drf-yasg==1.21.7
+celery==5.3.4
+redis==4.6.0
+django-environ==0.11.2
+mysqlclient==2.2.0
